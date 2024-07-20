@@ -1,0 +1,14 @@
+# 阿里云地址（国内地址，相对更快）
+yum-config-manager \
+    --add-repo \
+    http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+
+# 官方地址（比较慢）
+yum-config-manager \
+    --add-repo \
+    https://download.docker.com/linux/centos/docker-ce.repo
+
+https://blog.csdn.net/qq_41521682/article/details/138225986
+https://blog.csdn.net/kygooooo/article/details/132409792?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-132409792-blog-138225986.235^v43^pc_blog_bottom_relevance_base3&spm=1001.2101.3001.4242.3&utm_relevant_index=5
+https://blog.csdn.net/m0_68318951/article/details/131959911?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-5-131959911-blog-138225986.235^v43^pc_blog_bottom_relevance_base3&spm=1001.2101.3001.4242.4&utm_relevant_index=6
+https://blog.csdn.net/weixin_60783132/article/details/137205831
